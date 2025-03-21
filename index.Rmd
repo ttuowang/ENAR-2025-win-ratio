@@ -24,7 +24,7 @@ output:
 ---
 class: center, middle
 
-`r anicon::faa("link", animate="float", color="#222831")` Slides link: https://ttuowang.github.io/ENAR-2025-win-ratio/
+`r anicon::faa("link", animate="float", color="#222831")` .fancy[Slides link:] https://ttuowang.github.io/ENAR-2025-win-ratio/
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
@@ -73,7 +73,7 @@ xaringanExtra::style_panelset_tabs(
 ---
 class: inverse, center, middle
 
-# Death  $>$ Hospitalization 
+## Death  $>$ Hospitalization 
 
 ---
 class: inverse, center, middle
@@ -493,9 +493,9 @@ class: center, middle
 `r anicon::nia("<span style='font-size:55pt; color:#cc0033'> Thanks! </span>", animate = "pulse")`
 
 <br>
-Slides link: https://ttuowang.github.io/ENAR-2025-win-ratio/
+.fancy[Slides link:] https://ttuowang.github.io/ENAR-2025-win-ratio/
 
-Win ratio references: https://ttuowang.github.io/win-ratio-ref/
+.fancy[Win ratio references:] https://ttuowang.github.io/win-ratio-ref/
 
 `r anicon::faa("envelope-open", animate="float", color="#222831")` : tuo.wang@lilly.com
 

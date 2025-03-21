@@ -123,8 +123,7 @@ th, td { padding: 5px; }
 .title-slide h1 {
   color: #cc0033;
   padding-top: 100px;
-  font-weight: normal;
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
   text-shadow: none;
   padding-bottom: 10px;
@@ -134,7 +133,7 @@ th, td { padding: 5px; }
 /* H2 fonts */
 .title-slide h2 {
   color: #cc0033;
-  font-size: 34px;
+  font-size: 30px;
   text-align: center;
   text-shadow: none;
   padding-bottom: 20px;
@@ -143,7 +142,7 @@ th, td { padding: 5px; }
 
 /* H3 fonts */
 .title-slide h3 {
-  font-size: 28px;
+  font-size: 25px;
   font-weight: normal;
   color: #666666;
   text-align: center;
